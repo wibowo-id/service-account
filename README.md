@@ -17,6 +17,33 @@
 </li>
 </ul>
 <hr>
+<h2>Struktur Folder</h2>
+  <pre><code>
+├── config/
+│   └── config.go
+├── controller/
+│   └── init.go
+│   └── rekening_controller.go
+├── helper/
+│   └── generator.go
+│   └── helper.go
+├── model/
+│   └── mutasi.go
+│   └── nasabah.go
+│   └── rekening.go
+├── route/
+│   └── route.go
+├── .env
+├── .env.example
+├── .gitignore
+├── docker-compose.yml
+├── docker-compose.yml.example
+└── Dockerfile
+└── go.mod
+└── go.sum
+└── main.go
+</code></pre>
+<hr>
 <h2>📂 Struktur Docker</h2>
 <p>Project ini menggunakan <code>docker-compose.yml</code> untuk menjalankan dua container:</p>
 <ol>
