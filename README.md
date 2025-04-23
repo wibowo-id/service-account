@@ -1,5 +1,5 @@
-<h1 data-start="108" data-end="128" class="">📦 Nasabah Service</h1>
-<p data-start="130" data-end="325" class="">Sebuah REST API sederhana untuk manajemen nasabah dan rekening berbasis <strong data-start="202" data-end="214">Go Fiber</strong>, <strong data-start="216" data-end="230">PostgreSQL</strong>, dan <strong data-start="236" data-end="246">Docker</strong>. Cocok untuk studi kasus sistem kasir, keuangan, atau backend perbankan mikro.</p>
+<h1 data-start="108" data-end="128" class="">📦 Service Account</h1>
+<p data-start="130" data-end="325" class="">Sebuah REST API sederhana untuk manajemen nasabah dan rekening berbasis <strong data-start="202" data-end="214">Go Fiber</strong>, <strong data-start="216" data-end="230">PostgreSQL</strong>, dan <strong data-start="236" data-end="246">Docker</strong>.</p>
 <hr data-start="327" data-end="330" class="">
 <h2 data-start="332" data-end="348" class="">🚀 Tech Stack</h2>
 <ul data-start="350" data-end="738">
