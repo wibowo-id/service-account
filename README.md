@@ -38,9 +38,9 @@
 ├── .gitignore
 ├── docker-compose.yml
 ├── docker-compose.yml.example
-└── Dockerfile
-└── go.mod
-└── go.sum
+├── Dockerfile
+├── go.mod
+├── go.sum
 └── main.go
 </code></pre>
 <hr>
