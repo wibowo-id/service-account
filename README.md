@@ -185,6 +185,6 @@ CMD ["./service-account"]
 <hr>
 <h2>🧪 Menjalankan Project</h2>
 <pre class="overflow-visible!"><div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary"><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span><span class="hljs-comment"># Jalankan semua service</span>
-docker-compose up --build
+docker-compose up -d --build
 </span></span></code></div></div></pre>
 <p>Akses aplikasi di: <a rel="noopener" target="_new" href="http://localhost:3000">http://localhost:3000</a></p>
