@@ -17,7 +17,7 @@
 </li>
 </ul>
 <hr>
-<h2>Struktur Folder</h2>
+<h2>📂 Struktur Folder</h2>
   <pre><code>
 ├── config/
 │   └── config.go
@@ -44,7 +44,7 @@
 └── main.go
 </code></pre>
 <hr>
-<h2>📂 Struktur Docker</h2>
+<h2>🐳 Struktur Docker</h2>
 <p>Project ini menggunakan <code>docker-compose.yml</code> untuk menjalankan dua container:</p>
 <ol>
 <li>
